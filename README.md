@@ -1,4 +1,5 @@
-# Mojolicious::Plugin::SizeLimit [![Build Status](https://api.travis-ci.org/augensalat/mojolicious-plugin-sizelimit.svg?branch=master)](https://travis-ci.org/augensalat/mojolicious-plugin-sizelimit)
+# Mojolicious::Plugin::SizeLimit [![Build Status](https://api.travis-ci.org/wsdookadr/mojolicious-plugin-sizelimit.svg?branch=master)](https://travis-ci.org/wsdookadr/mojolicious-plugin-sizelimit)
+
 
 This module allows you to terminate
 [Hypnotoad](http://mojolicio.us/perldoc/Mojo/Server/Hypnotoad) worker
@@ -46,3 +47,9 @@ app->start;
 Please look at the
 [manpage](https://metacpan.org/pod/Mojolicious::Plugin::SizeLimit).
 
+## Credits
+
+The initial work was performed by @augensalat (Bernhard Graf) on this module.
+It was not maintained since 2016.
+
+This is my fork of the module, with additional fixes and updates.
